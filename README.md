@@ -1,6 +1,6 @@
 - Hi, I’m @Apmds
 - Games are cool :)
-- Learning Java and Pyhton at @detiuaveiro
+- Learning Software Engineering at @detiuaveiro
 - Godot is also cool :)
 - https://apmds.itch.io/
 
