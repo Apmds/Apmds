@@ -13,7 +13,7 @@ I enjoy developing games for the platforms I own and dabbling with any interesti
 ## Connect with me 🌐
 
 - [💼 LinkedIn](https://www.linkedin.com/in/antonio-p-santos/)
-- [✉️ Email](mailto:ap1mrfj@gmail.com)
+- [✉️ Email](mailto:antonio.p.santos205@gmail.com)
 
 ---
 🎮 My games are posted on [Itch.io](http://apmds.itch.io/).
