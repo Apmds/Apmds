@@ -12,8 +12,8 @@ I enjoy developing games for the platforms I own and dabbling with any interesti
 
 ## Connect with me 🌐
 
-[![💼 LinkedIn](https://skillicons.dev/icons?i=gmail)](https://www.linkedin.com/in/antonio-p-santos/)
-[![✉️ Email](https://skillicons.dev/icons?i=linkedin)](mailto:antonio.p.santos205@gmail.com)
+[![✉️ Email](https://skillicons.dev/icons?i=gmail)](mailto:antonio.p.santos205@gmail.com)
+[![💼 LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/antonio-p-santos/)
 
 ---
 🎮 My games are posted on [Itch.io](http://apmds.itch.io/).
