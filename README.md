@@ -6,7 +6,7 @@ I enjoy developing games for the platforms I own and dabbling with any interesti
 ## Tools and skills ⚡
 [![My Tools](https://skillicons.dev/icons?i=c,python,java,go,html,css,javascript,godot)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=git,github,flask,fastapi,spring,docker)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,github,flask,fastapi,spring,docker,threejs,postgres,mongodb,react)](https://skillicons.dev)
 
 ---
 
