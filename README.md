@@ -1,5 +1,5 @@
 # 🛠️ Hello, I’m **António**
-I'm a Software Engineering student at [detiuaveiro](https://github.com/detiuaveiro).
+I'm studying for my Masters degree in Digital Game Development at [detiuaveiro](https://github.com/detiuaveiro), where I previously completed my Bachelors degree in Software Engineering.
 
 I enjoy developing games for the platforms I own and dabbling with any interesting ideas that come to mind 💡.
 
